@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Keshat</h1>
-<h3 align="center">Python, Java and HTML Developer.</h3>
+<h3 align="center">Engineering Student CSE AIML.</h3>
 
 - 🚀 Currently honing my skills in **C++, Python, Java, HTML, SQL, CSS and 3D modelling**
 
